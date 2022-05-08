@@ -9,7 +9,7 @@ const res = require("express/lib/response");
 app.use(cors())
 app.use(express.json()) 
 
-// tryinggggg 
+// tryinggggg sdfdsfdsf
 
 
 const uri = `mongodb+srv://${process.env.USER}:${process.env.PASS}@cluster0.nnlxe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`;
